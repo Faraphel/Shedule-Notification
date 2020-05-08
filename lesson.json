@@ -1,0 +1,10 @@
+{
+        "Histoire 07/05":       {"LinkID": "mtae3khg6ir6",  "Start": "Jeudi 10h30",      "Duration": "1h00",      "Color": "brown"},
+        "Physique 04/05":       {"LinkID": "PhysiqueTS2",   "Start": "Lundi 14h30",      "Duration": "2h00",      "Color": "green", "ActivityID": "rIhKyAz71B386cMrqLEu7A%3d%3d"},
+        "Physique 07/05":       {"LinkID": "PhysiqueTS2",   "Start": "Jeudi 14h00",      "Duration": "2h00",      "Color": "green", "ActivityID": "rIhKyAz71B386cMrqLEu7A%3d%3d"},
+        "Mathématiques 07/05":  {"Start": "Jeudi 16h00",      "Duration": "1h00",      "Color": "dodger blue", "Link": "https://eu.bbcollab.com/collab/ui/session/guest/033119d37dc74f0f87ffffb9c4dbe601"},
+        "ISN 06/05":            {"LinkID": "1tfifwcd1o3j",  "Start": "Mercredi 9h30",    "Duration": "1h00",      "Color": "cyan", "ActivityID": "DhLrDWxNq3M%2fLWNg0vHSdA%3d%3d"},
+        "Histoire 08/05":       {"LinkID": "7vta1wph4wvn",  "Start": "Vendredi 14h00",   "Duration": "1h00",      "Color": "brown"},
+
+        "Debug":       {"LinkID": "7vta1wph4wvn",  "Start": "Vendredi 15h00",   "Duration": "0h30",      "Color": "brown"}
+ }
